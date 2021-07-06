@@ -3,7 +3,7 @@ body{
     margin: 0;
 
 }
-
+ /* header area css */
 .flex-container{
     display: flex;
     padding-bottom: 120px;
@@ -41,6 +41,8 @@ p{
     background-image: linear-gradient(#FBA24F,#FF1E1E);
     border-radius: 25px;
 }
+
+ /* about area css */
 .about p{
     color: #18191F;
 }
@@ -55,6 +57,8 @@ p{
 
     padding-bottom: 120px;
 }
+
+ /* recipie area css*/
 .recipi-text{
     text-align: center;
     padding: 0 200px;
@@ -92,6 +96,8 @@ p{
     color:#18191F;
     font-weight: 900;
 }
+
+ /* coubt area css */
 .count-container{
     display: flex;
     box-shadow: 10px 10px 40px gray;
@@ -116,6 +122,8 @@ p{
     color: #18191F;
     font-size: 15px;
 }
+
+ /* menu area css */
 .menu-flex{
     display: flex;
     margin-left: 5%;
@@ -145,6 +153,8 @@ p{
     padding: 0;
     margin: 0;
 }
+
+ /* testimonial area css */
 .testimonial-container{
     display: flex;
     margin-bottom: 120px;
@@ -166,6 +176,8 @@ p{
 
 }
 
+
+ /* footer area css */
 .footer{
     text-align: center;
     background-color: #0B0D17;
